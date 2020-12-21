@@ -1,0 +1,229 @@
+{
+    "best-products": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Beef Blackpapper",
+        "harga": 38000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Beef-Blackpepper.jpeg"
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Chicken Blackpapper",
+        "harga": 29000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Chicken-Blacpapper.jpeg"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Coffee Frape Cream",
+        "harga": 26000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Coffee-FrapeCream.jpeg"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Beef Blackpapper",
+        "harga": 38000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Beef-Blackpepper.jpeg"
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Chicken Blackpapper",
+        "harga": 29000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Chicken-Blacpapper.jpeg"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Ayam Bakar",
+        "harga": 23000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Ayam-Bakar.jpeg"
+      },
+      {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Ayam Geprek",
+        "harga": 23000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Ayam-Geprek.jpeg"
+      },
+      {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Ayam Goreng",
+        "harga": 23000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Ayam-Goreng.jpeg"
+      },
+      {
+        "id": 6,
+        "kode": "K-06",
+        "nama": "Chesse Roll",
+        "harga": 23000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Chesse-Roll.jpeg"
+      },
+      {
+        "id": 7,
+        "kode": "K-07",
+        "nama": "Chiken-Katsu",
+        "harga": 25000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Chicken-Katsu.jpeg"
+      },
+      {
+        "id": 8,
+        "kode": "K-08",
+        "nama": "Nasi Goreng Babat",
+        "harga": 35000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Nasi-Goreng-Babat.jpeg"
+      },
+      {
+        "id": 9,
+        "kode": "K-09",
+        "nama": "Nasi Goreng Seafood",
+        "harga": 34000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Nasi-Goreng-Seafood.jpeg"
+      },
+      {
+        "id": 10,
+        "kode": "K-10",
+        "nama": "Spaghetti Bolognese",
+        "harga": 29000,
+        "is_ready": true,
+        "kategori_id":0,
+        "gambar": "Spaghetti-Bolognese.jpeg"
+      }
+    ],
+    "drinks": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Coffee Frape Cream",
+        "harga": 26000,
+        "is_ready": true,
+        "gambar": "Coffee-FrapeCream.jpeg"
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Frozen Chocolate Ice Blended",
+        "harga": 26000,
+        "is_ready": true,
+        "gambar": "Frozen-ChocolateIceBlended.jpeg"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "GreanTea Ice Blended",
+        "harga": 26000,
+        "is_ready": true,
+        "gambar": "Grean-TeaIceBlended.jpeg"
+      },
+      {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Strawberry Squash",
+        "harga": 17000,
+        "is_ready": true,
+        "gambar": "Strawberry-Squash.jpeg"
+      },
+      {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Hot Cappucino",
+        "harga": 23000,
+        "is_ready": true,
+        "gambar": "Hot-Cappucino.jpeg"
+      },
+      {
+        "id": 6,
+        "kode": "K-06",
+        "nama": "Churos",
+        "harga": 15000,
+        "is_ready": true,
+        "gambar": "Churos.jpeg"
+      }
+    ],
+    "keranjangs": [
+      {
+        "jumlah_pemesanan": "1",
+        "keterangan": "Pedas",
+        "products": {
+          "id": 2,
+          "kode": "K-01",
+          "nama": "Beef Blackpapper",
+          "harga": 38000,
+          "is_ready": true,
+          "gambar": "Beef-Blackpepper.jpeg"
+        },
+        "id": 1
+      },
+      {
+        "jumlah_pemesanan": "1",
+        "keterangan": "",
+        "products": {
+          "id": 2,
+          "kode": "K-06",
+          "nama": "Chesse Roll",
+          "harga": 23000,
+          "is_ready": true,
+          "gambar": "Chesse-Roll.jpeg"
+        },
+        "id": 2
+      },
+      {
+        "jumlah_pemesanan": "1",
+        "keterangan": "",
+        "products": {
+          "id": 1,
+          "kode": "K-09",
+          "nama": "Nasi Goreng Seafood",
+          "harga": 34000,
+          "is_ready": true,
+          "gambar": "Nasi-Goreng-Seafood.jpeg"
+        },
+        "id": 3
+      },
+      {
+        "jumlah_pemesanan": "1",
+        "keterangan": "",
+        "products": {
+          "id": 4,
+          "kode": "K-04",
+          "nama": "Strawberry Squash",
+          "harga": 17000,
+          "is_ready": true,
+          "gambar": "Strawberry-Squash.jpeg"
+        },
+        "id": 4
+      }
+    ],
+    "pesanans": [
+    ]
+  }
